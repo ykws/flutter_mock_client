@@ -2,6 +2,10 @@
 
 https://flutter.dev/docs/cookbook/testing/unit/mocking
 
+```
+$ flutter test test/fetch_post_test.dart
+```
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
