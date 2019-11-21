@@ -1,6 +1,6 @@
-# flutter_mock_client
+# Flutter Mock dependencies using Mockito
 
-A new Flutter project.
+https://flutter.dev/docs/cookbook/testing/unit/mocking
 
 ## Getting Started
 
