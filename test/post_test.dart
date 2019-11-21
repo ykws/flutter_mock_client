@@ -2,7 +2,7 @@ import 'package:test/test.dart';
 import 'package:mockito/mockito.dart';
 import 'package:http/http.dart' as http;
 
-import 'package:flutter_mock_client/post.dart';
+import 'package:flutter_mock_client/main.dart';
 
 class MockClient extends Mock implements http.Client {}
 
